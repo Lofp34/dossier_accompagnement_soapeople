@@ -32,7 +32,7 @@ const consultants = [
   { slug: "thibault", name: "Thibault", file: "/docs/consultants/thibault.md" },
 ];
 
-export default function SiteSOAFinal(): JSX.Element {
+export default function SiteSOAFinal(): React.ReactElement {
   const [active, setActive] = useState<CardKey | null>(null);
   const [content, setContent] = useState<string>("");
   const [activeConsultant, setActiveConsultant] = useState<string | null>(null);
