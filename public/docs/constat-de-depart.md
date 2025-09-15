@@ -2,7 +2,7 @@
 
 ## Objet du document
 
-Cette note synthétise, de manière neutre et factuelle, la perception de la situation exprimée par Christophe (manager) concernant son équipe. Elle servira d’introduction au document de présentation de l’accompagnement proposé.
+Synthèse neutre et factuelle de la situation de départ présentée par Christophe.
 
 ## Constat général
 
@@ -11,8 +11,8 @@ Les consultants sont décrits comme très compétents techniquement, mais encore
 ## Freins identifiés
 
 - Blocages psychologiques chez des consultants expérimentés (10–15 ans dans leur rôle), rendant le changement de posture moins spontané
-- Population d’avant‑vente jugée vieillissante, nécessitant la préparation d’une nouvelle génération relais
-- Risque de « formation sur le tas » face aux clients, avec une perte d’opportunités associée
+- Population d’avant‑vente vieillissante, nécessitant la préparation d’une nouvelle génération relais
+- Risque de « formation sur le tas » face aux clients, avec une perte d’opportunités associée et de motivation chez les consultants.
 
 ## Attentes vis‑à‑vis de la formation
 
